@@ -7,6 +7,11 @@ This project involves the analysis of a dataset containing detailed information 
 ## Tools Used
 - SQL
 
+
+![Football shot](https://github.com/user-attachments/assets/37e5d99c-536c-4e9d-8344-5a5311d7173e)
+
+
+
 ## Insights
 
 1. **Total Number of Players**
